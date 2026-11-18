@@ -55,7 +55,7 @@ Weather and geocoding data are provided by [Open-Meteo](https://open-meteo.com/)
 
 ## Author
 
-Shreya S Gour
+Pooja Shenoy
 
 ## Live Demo
 

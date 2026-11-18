@@ -59,4 +59,4 @@ Pooja Shenoy
 
 ## Live Demo
 
-[Open SkyCast Weather App](https://shreyagour2105.github.io/skycast-weather-app/)
+[Open SkyCast Weather App](https://poojashenoy6459-del.github.io/skycast-weather-app/)
